@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SharedPreferencesApp</string>
+    <string name="loginTitle">Login</string>
+    <string name="nameHint">Name</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="datePickerButton">Pick a date</string>
+    <string name="birthDate">Birth date</string>
+    <string name="rememberMeCheck">Remember me</string>
+    <string name="loginButtonText">Log in</string>
+</resources>
